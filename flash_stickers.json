@@ -1,6 +1,47 @@
 {"packs":[
 
 {
+	"pack_id":00018,
+	"pack_icon":"https://raw.githubusercontent.com/savinduonline/flash_board_stickers/main/sticker_pack_0018/pack_18%20(10).webp",
+	"pack_name":"Chaminda Roxx",
+	"publisher":"රවිදු දිල්ශාන්",
+	"sticker_count":"10",
+	"stickers":[
+		{
+			"url":"https://raw.githubusercontent.com/savinduonline/flash_board_stickers/main/sticker_pack_0018/pack_18%20(1).webp"
+		},
+		{
+			"url":"https://raw.githubusercontent.com/savinduonline/flash_board_stickers/main/sticker_pack_0018/pack_18%20(2).webp"
+		},
+		{
+			"url":"https://raw.githubusercontent.com/savinduonline/flash_board_stickers/main/sticker_pack_0018/pack_18%20(3).webp"
+		},
+		{
+			"url":"https://raw.githubusercontent.com/savinduonline/flash_board_stickers/main/sticker_pack_0018/pack_18%20(4).webp"
+		},
+		{
+			"url":"https://raw.githubusercontent.com/savinduonline/flash_board_stickers/main/sticker_pack_0018/pack_18%20(5).webp"
+		},
+		{
+			"url":"https://raw.githubusercontent.com/savinduonline/flash_board_stickers/main/sticker_pack_0018/pack_18%20(6).webp"
+		},
+		{
+			"url":"https://raw.githubusercontent.com/savinduonline/flash_board_stickers/main/sticker_pack_0018/pack_18%20(7).webp"
+		},
+		{
+			"url":"https://raw.githubusercontent.com/savinduonline/flash_board_stickers/main/sticker_pack_0018/pack_18%20(8).webp"
+		},
+		{
+			"url":"https://raw.githubusercontent.com/savinduonline/flash_board_stickers/main/sticker_pack_0018/pack_18%20(9).webp"
+		},
+		{
+			"url":"https://raw.githubusercontent.com/savinduonline/flash_board_stickers/main/sticker_pack_0018/pack_18%20(10).webp"
+		},
+	]
+},
+
+
+{
 	"pack_id":00017,
 	"pack_icon":"https://raw.githubusercontent.com/savinduonline/flash_board_stickers/main/sticker_pack_0017/pack_17%20(1).webp",
 	"pack_name":"නාඩගම්කාරයෝ",
